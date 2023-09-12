@@ -23,3 +23,5 @@ I based the semantic tags on where the text was on the page.
 I then made sure to give all images an alt tag right after the src element so the page was more accesible. 
 I made sure that the <h> elements were labeled in chronological order in the html. 
 At the beggining of the html document I changed the title to marketing help site so that the title was more descriptive. 
+
+Here is a link to work - file:///Users/laurenmorrison/Desktop/marketing-site/index.html 
